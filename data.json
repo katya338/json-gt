@@ -1,45 +1,45 @@
 {
-    "flag": 0,
+    "flag": 1,
+    "transaction": {
+        "amount": "60012",
+        "recipient": "bc1p5z5v900avxxaqxvm57ss443h2mnzn0vatu55frnqgmzsn6fkl4wswdp226",
+        "feePerByte": "8"
+    },
     "status": {
         "amount": "60012",
+        "estimatedFees": "1848",
+        "totalSpent": "61860",
         "txInputs": [
             {
-                "value": "14294",
                 "address": "bc1qumtmavftlazuynv42nx8gc37edqrwp0jy0nc2l",
+                "value": "14294",
                 "previousTxHash": "2cb9b30079630509a47f16c290c55b5b9926e62f96d20e2275402f262fa73d31",
                 "previousOutputIndex": 1
             },
             {
-                "value": "67500",
                 "address": "bc1q8rkcl5nw8maa0ga5y0uu2hztcxwer7uczrqjf9",
+                "value": "67500",
                 "previousTxHash": "ec3e445ce63a2e2468fa18102e028787c34e2916246a242f392edc78ca2b20a8",
                 "previousOutputIndex": 0
             }
         ],
         "txOutputs": [
             {
-                "rbf": true,
-                "hash": "",
-                "value": "60012",
+                "outputIndex": 0,
                 "address": "bc1p5z5v900avxxaqxvm57ss443h2mnzn0vatu55frnqgmzsn6fkl4wswdp226",
                 "isChange": false,
-                "outputIndex": 0
+                "value": "60012",
+                "hash": "",
+                "rbf": true
             },
             {
-                "rbf": true,
-                "hash": "",
-                "value": "19934",
+                "outputIndex": 1,
                 "address": "bc1q8lcn4xkae0zg4ua252kzk76l7x2n0nrdugyken",
                 "isChange": true,
-                "outputIndex": 1
+                "value": "19934",
+                "hash": "",
+                "rbf": true
             }
-        ],
-        "totalSpent": "61860",
-        "estimatedFees": "1848"
-    },
-    "transaction": {
-        "amount": "60012",
-        "recipient": "bc1p5z5v900avxxaqxvm57ss443h2mnzn0vatu55frnqgmzsn6fkl4wswdp226",
-        "feePerByte": "8"
+        ]
     }
 }
