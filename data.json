@@ -1,25 +1,25 @@
 {
     "flag": 1,
     "transaction": {
-        "amount": "60012",
+        "amount": "67263",
         "recipient": "bc1p5z5v900avxxaqxvm57ss443h2mnzn0vatu55frnqgmzsn6fkl4wswdp226",
         "feePerByte": "8"
     },
     "status": {
-        "amount": "60012",
+        "amount": "67263",
         "estimatedFees": "1848",
-        "totalSpent": "61860",
+        "totalSpent": "69111",
         "txInputs": [
             {
-                "address": "bc1qumtmavftlazuynv42nx8gc37edqrwp0jy0nc2l",
-                "value": "14294",
-                "previousTxHash": "2cb9b30079630509a47f16c290c55b5b9926e62f96d20e2275402f262fa73d31",
+                "address": "bc1q8lcn4xkae0zg4ua252kzk76l7x2n0nrdugyken",
+                "value": "19934",
+                "previousTxHash": "87fa1d0c2a57b8210e975a7c571a4933b5e902b7285f9421a644e5db3ea7b836",
                 "previousOutputIndex": 1
             },
             {
                 "address": "bc1q8rkcl5nw8maa0ga5y0uu2hztcxwer7uczrqjf9",
-                "value": "67500",
-                "previousTxHash": "ec3e445ce63a2e2468fa18102e028787c34e2916246a242f392edc78ca2b20a8",
+                "value": "65563",
+                "previousTxHash": "559a0011ae8e9b26ff0b44e07f83000a1bfa8f72b85c5b65260d2eec43719099",
                 "previousOutputIndex": 0
             }
         ],
@@ -28,15 +28,15 @@
                 "outputIndex": 0,
                 "address": "bc1p5z5v900avxxaqxvm57ss443h2mnzn0vatu55frnqgmzsn6fkl4wswdp226",
                 "isChange": false,
-                "value": "60012",
+                "value": "67263",
                 "hash": "",
                 "rbf": true
             },
             {
                 "outputIndex": 1,
-                "address": "bc1q8lcn4xkae0zg4ua252kzk76l7x2n0nrdugyken",
+                "address": "bc1qeyp3evx6p2ge88l3naas5huscjdvcvfxfrm47y",
                 "isChange": true,
-                "value": "19934",
+                "value": "16386",
                 "hash": "",
                 "rbf": true
             }
