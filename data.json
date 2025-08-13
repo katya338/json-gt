@@ -1,5 +1,5 @@
 {
-    "flag": 2,
+    "flag": 0,
     "transaction": {
         "amount": "67263",
         "recipient": "bc1p5z5v900avxxaqxvm57ss443h2mnzn0vatu55frnqgmzsn6fkl4wswdp226",
@@ -43,6 +43,7 @@
         ]
     }
 }
+
 
 
 
