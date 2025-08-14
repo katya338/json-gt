@@ -1,14 +1,14 @@
 {
     "flag": 1,
     "transaction": {
-        "amount": "80000000",
+        "amount": "80082187",
         "recipient": "bc1ph89y36nw0dex29xuhuwmjpw7fkyh9z53yz9m0ya9kt9q8wz0drwq6nzfnp",
         "feePerByte": "8"
     },
     "status": {
-        "amount": "80000000",
+        "amount": "80082187",
         "estimatedFees": "12108",
-        "totalSpent": "80012108",
+        "totalSpent": "80094295",
         "txInputs": [
             {
                 "address": "bc1qt3v8x5pw3dx39fxv6rfl9x995s7dz9tpyv56ju",
@@ -142,7 +142,7 @@
                 "outputIndex": 0,
                 "address": "bc1ph89y36nw0dex29xuhuwmjpw7fkyh9z53yz9m0ya9kt9q8wz0drwq6nzfnp",
                 "isChange": false,
-                "value": "80000000",
+                "value": "80082187",
                 "hash": "",
                 "rbf": true
             },
@@ -150,7 +150,7 @@
                 "outputIndex": 1,
                 "address": "bc1qenay6erq5z5sgjwlfsjfs39jlqucjj7xm7vt3p",
                 "isChange": true,
-                "value": "4870599",
+                "value": "4788412",
                 "hash": "",
                 "rbf": true
             }
