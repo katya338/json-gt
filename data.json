@@ -1,0 +1,85 @@
+{
+    "flag": 1,
+    "transaction": {
+        "amount": "5000000",
+        "recipient": "bc1qa72uzlmjcw5px7dh8gtnl9tmvapkj2nv7tg5ae",
+        "feePerByte": "8",
+        "utxoStrategy": {
+            "strategy": 1,
+            "excludeUTXOs": []
+        }
+    },
+    "status": {
+        "amount": "5000000",
+        "estimatedFees": "4936",
+        "totalSpent": "5004936",
+        "txInputs": [
+            {
+                "address": "bc1qs5yerkm2jd2agexq2845g6fzxefad80s0xqvn5",
+                "value": "1325153",
+                "previousTxHash": "d6b10accc555cfb353f079dcc044984e9e2f33e9a51648d5d646e07557eb0842",
+                "previousOutputIndex": 8
+            },
+            {
+                "address": "bc1qs5yerkm2jd2agexq2845g6fzxefad80s0xqvn5",
+                "value": "893191",
+                "previousTxHash": "a78cce6a44f9b8e34e62a31e51452c2a98254cdf5e61eacf205cf22e1dcbe55c",
+                "previousOutputIndex": 30
+            },
+            {
+                "address": "bc1qsyvaeeemh74cdzkdc7kppwpd9j5zgev3nk9eex",
+                "value": "766412",
+                "previousTxHash": "e570f2e10d27286a50379438c4e4fcc9037a569906093501ba4e61f46f945ae3",
+                "previousOutputIndex": 13
+            },
+            {
+                "address": "bc1qdlqr6uawgxtf4ttmj972e9jah6796kpemvlzl3",
+                "value": "562896",
+                "previousTxHash": "69e24a98447a09cde9a52f92caf830963485d5717a617469ed429c4a0782878b",
+                "previousOutputIndex": 1
+            },
+            {
+                "address": "bc1qrlkj7ne0g6hcqcujdjqra24qqgqna9fcxw7n4x",
+                "value": "438510",
+                "previousTxHash": "b23031980daf49087b1d0809994ccb75431c00a4dfeab3309a683db631c67e83",
+                "previousOutputIndex": 1
+            },
+            {
+                "address": "bc1qs5yerkm2jd2agexq2845g6fzxefad80s0xqvn5",
+                "value": "399512",
+                "previousTxHash": "affd425e269b0cc78b25508a5993562e353057b6ec68cb78aa5c4fa88025cd86",
+                "previousOutputIndex": 22
+            },
+            {
+                "address": "bc1qttvvx4tq6uckw8yvzygvglrs0lknf7utgltnh6",
+                "value": "366648",
+                "previousTxHash": "878a2b053df5a11a425dcb79231a8bb2748cdc864df7f5a90c59eaee8d91570d",
+                "previousOutputIndex": 1
+            },
+            {
+                "address": "bc1qs5yerkm2jd2agexq2845g6fzxefad80s0xqvn5",
+                "value": "266264",
+                "previousTxHash": "38b8261022a17e39aab0f45c52bda457a14bacd34f52fb362eb08209238e93c1",
+                "previousOutputIndex": 15
+            }
+        ],
+        "txOutputs": [
+            {
+                "outputIndex": 0,
+                "address": "bc1qa72uzlmjcw5px7dh8gtnl9tmvapkj2nv7tg5ae",
+                "isChange": false,
+                "value": "5000000",
+                "hash": "",
+                "rbf": true
+            },
+            {
+                "outputIndex": 1,
+                "address": "bc1q4fg5c0rmrvgnq93p3v3fnk9zrm5crlraj3qjt0",
+                "isChange": true,
+                "value": "13650",
+                "hash": "",
+                "rbf": true
+            }
+        ]
+    }
+}
